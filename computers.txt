@@ -1,5 +1,5 @@
 Name 1 company that manufactures Central Processing Units(CPUs)`Intel`Ryzen 
-What programming language was the Deno wrote in?(Name 1 out of 2)`Rust`Typescript
+What programming language was the JS Runtime Deno wrote in?(Name 1 out of 2)`Rust`Typescript
 Is Python Compiled or Interpreted?`Interpreted
 What was the first Linux Distribution(Not Debian btw)?`Slackware
 Operating System Created By Apple?`OSX`MacOS
